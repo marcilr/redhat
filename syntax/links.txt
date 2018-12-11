@@ -1,0 +1,18 @@
+links.txt
+Created Tue Dec 11 08:49:25 AST 2018
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Syntax related links
+
+
+Links
+=====
+How do I get the size of a directory on the command line?
+du is your friend.  If you just want to know the total size
+of a directory then jump into it and run:
+  du -hs
+If you also would like to know which sub-folders take up how
+much disk space?! You could extend this command to:
+  du -h --max-depth=1 | sort -hr
+https://unix.stackexchange.com/questions/185764/how-do-i-get-the-size-of-a-directory-on-the-command-line
