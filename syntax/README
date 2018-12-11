@@ -5,3 +5,19 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+disk-space.txt
+  du is your friend.  If you just want to know the total size
+  of a directory then jump into it and run:
+
+    du -hs
+
+  If you also would like to know which sub-folders take up how
+  much disk space?! You could extend this command to:
+
+    du -h --max-depth=1 | sort -hr
+
+  --edited Oct 17 '17 at 3:05
+    by datatype_void
+    answered Feb 19 '15 at 17:32
+    by Chrispie
+    https://unix.stackexchange.com/questions/185764/how-do-i-get-the-size-of-a-directory-on-the-command-line
