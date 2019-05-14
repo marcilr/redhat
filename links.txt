@@ -8,5 +8,22 @@ Red Hat related links
 
 Links
 =====
+DISPLAYING PACKAGE INFORMATION
+To display information about one or more packages
+(glob expressions are valid here as well),
+use the following command:
+  yum info package_name…
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-displaying_package_information
+
+How to Check and Install Updates On CentOS and RHEL
+by Aaron Kili | Published: November 3, 2017 | November 3, 2017
+Packagee Managers
+# yum check-update
+https://www.tecmint.com/check-and-install-updates-on-centos-and-rhel/
+
 Red Hat
 https://www.redhat.com/en
+
+What is the difference between the 'yum check-update'
+command and 'yum updateinfo' command?
+https://www.quora.com/What-is-the-difference-between-the-yum-check-update-command-and-yum-updateinfo-command
