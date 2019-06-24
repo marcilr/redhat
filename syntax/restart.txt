@@ -1,0 +1,22 @@
+restart.txt
+Created Mon Jun 24 07:17:31 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+To restart redhat system:
+
+# reboot 
+
+  OR
+
+# shutdown -r now
+
+
+Use of sudo is fine.
+
+
+
+Links
+=====
+What is the exact command to restart a Redhat linux system?
+https://superuser.com/questions/466792/what-is-the-exact-command-to-restart-a-redhat-linux-system
