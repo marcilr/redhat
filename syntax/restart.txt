@@ -6,11 +6,8 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 To restart redhat system:
 
 # reboot 
-
   OR
-
 # shutdown -r now
-
 
 Use of sudo is fine.
 
