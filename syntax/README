@@ -21,3 +21,11 @@ disk-space.txt
     answered Feb 19 '15 at 17:32
     by Chrispie
     https://unix.stackexchange.com/questions/185764/how-do-i-get-the-size-of-a-directory-on-the-command-line
+
+restart.txt
+  To restart redhat system:
+
+  # reboot
+    OR
+  # shutdown -r now
+
