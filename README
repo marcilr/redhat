@@ -8,6 +8,9 @@ Filelist
 links.txt
   Red Hat related links
 
+manifest
+  Manifest for resync application
+
 syntax/
   Syntax for Red Hat
 
