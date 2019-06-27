@@ -14,3 +14,6 @@ syntax/
 redhat.txt
   Red Hat
   https://www.redhat.com/en
+
+yum/
+  yum ackage pmanagement
