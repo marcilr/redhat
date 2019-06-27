@@ -1,0 +1,25 @@
+rhscl.txt
+Created Thu Jun 27 14:16:22 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+"Red Hat Software Collections (RHSCL) is intended to give
+Red Hat Enterprise Linux customers the latest stable
+versions of dynamic languages and open source databases
+for users to create modern applications that can be
+confidently deployed into production.  These fast-moving
+collections are expected to be updated frequently and
+will have a shorter life cycle and support term than
+Red Hat Enterprise Linux.
+
+Software Collections is available for Red Hat Enterprise
+Linux 7 and previous supported releases.  Starting with
+Red Hat Enterprise Linux 8, the content traditionally
+consumed via Software Collections is now part of
+Application Streams."
+
+
+Links
+=====
+Red Hat Software Collections Product Life Cycle
+https://access.redhat.com/support/policy/updates/rhscl
