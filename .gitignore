@@ -1,0 +1,8 @@
+#.gitignore
+# Created Mon Jul 29 06:46:45 AKDT 2019
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore.
+#
+.gitignore
+yum/
