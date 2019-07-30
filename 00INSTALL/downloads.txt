@@ -6,6 +6,11 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Red Hat 6 download related links
 
 
+Liked the looks of:
+  Red Hat Enterprise Linux Server (v. 6 for 64-bit x86_64)
+  https://rhn.redhat.com/rhn/software/channel/downloads/Download.do?cid=10486
+
+
 From: https://rhn.redhat.com/rhn/software/downloads/SupportedISOs.do
 
 you should see up to (depending upon your subscriptions and
