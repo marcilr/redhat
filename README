@@ -14,12 +14,18 @@ links.txt
 manifest
   Manifest for resync application
 
-syntax/
-  Syntax for Red Hat
+pdf/
+  Protable Document Format files
 
 redhat.txt
   Red Hat
   https://www.redhat.com/en
+
+rhscl/
+  Red Hat Software Collections (RHSCL)
+
+syntax/
+  Syntax for Red Hat
 
 yum/
   yum package pmanagement
