@@ -1,0 +1,57 @@
+downloadss.txt
+Created Tue Jul 30 13:40:43 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Red Hat 6 download related links
+
+
+From: https://rhn.redhat.com/rhn/software/downloads/SupportedISOs.do
+
+you should see up to (depending upon your subscriptions and
+entitlements) nine GA versions at the very top of the list with their
+associated parent channels:
+
+Red Hat Enterprise Linux Server (v. 6 for 32-bit x86)
+https://rhn.redhat.com/rhn/software/channel/downloads/Download.do?cid=10358
+
+Red Hat Enterprise Linux Server (v. 6 for 64-bit x86_64)
+https://rhn.redhat.com/rhn/software/channel/downloads/Download.do?cid=10486
+
+Red Hat Enterprise Linux Server (v. 6 for IBM POWER)
+https://rhn.redhat.com/rhn/software/channel/downloads/Download.do?cid=10417
+
+Red Hat Enterprise Linux Server (v. 6 for IBM System z)
+https://rhn.redhat.com/rhn/software/channel/downloads/Download.do?cid=10438
+
+Red Hat Enterprise Linux Workstation (v. 6 for 32-bit x86)
+https://rhn.redhat.com/rhn/software/channel/downloads/Download.do?cid=10401
+
+Red Hat Enterprise Linux Workstation (v. 6 for x86_64)
+https://rhn.redhat.com/rhn/software/channel/downloads/Download.do?cid=10550
+
+Red Hat Enterprise Linux Client (v. 6 for 32-bit x86)
+https://rhn.redhat.com/rhn/software/channel/downloads/Download.do?cid=10342
+
+Red Hat Enterprise Linux Client (v. 6 for 64-bit x86_64)
+https://rhn.redhat.com/rhn/software/channel/downloads/Download.do?cid=10454
+
+Red Hat Enterprise Linux Compute Node (v. 6 for x86_64)
+https://rhn.redhat.com/rhn/software/channel/downloads/Download.do?cid=10470
+
+Do not descend down the tree to the Beta versions in the child channels:
+
+Red Hat Enterprise Linux Server Beta (v. 6 for 32-bit x86)
+Red Hat Enterprise Linux Server Beta (v. 6 for 64-bit x86_64)
+Red Hat Enterprise Linux Server Beta (v. 6 IBM System z)
+Red Hat Enterprise Linux Workstation Beta (v.6 for 32-bit x86)
+Red Hat Enterprise Linux Workstation Beta (v.6 for x86_64)
+--www.redhat.com/archives/rhelv6-list/2010-December/msg00007.html
+
+
+
+
+Links
+=====
+Re: [rhelv6-list] RHEL 6 Downloads
+https://www.redhat.com/archives/rhelv6-list/2010-December/msg00007.html
