@@ -5,6 +5,9 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+00INSTALL/
+  Installation of redhat
+
 .gitignore
   Files for git to ignore
 
