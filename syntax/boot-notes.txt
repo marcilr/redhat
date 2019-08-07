@@ -5,7 +5,7 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 From SAO DNR OIT yellow notepad:
 
-Red Hat 6 vm boot notes (I think):
+Red Hat 6 vm boot notes:
 
 1. At grub boot hit 'e' to edit first entry
 2. Find "linux 16" line.
