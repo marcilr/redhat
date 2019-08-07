@@ -1,0 +1,14 @@
+boot-notes.txt
+Created Wed Aug  7 13:19:52 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+From SAO DNR OIT yellow notepad:
+
+Red Hat 6 vm boot notes (I think):
+
+1. At grub boot hit 'e' to edit first entry
+2. Find "linux 16" line.
+   At 'rd/.break' to end of line.
+3. Press ctrl+x to boot.
+4. Booted in read mode only
