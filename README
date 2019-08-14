@@ -27,6 +27,9 @@ redhat.txt
 rhscl/
   Red Hat Software Collections (RHSCL)
 
+security/
+  Security
+
 syntax/
   Syntax for Red Hat
 
