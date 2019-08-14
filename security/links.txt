@@ -1,0 +1,13 @@
+links.txt
+Created Wed Aug 14 07:53:45 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Security related links
+
+
+Links
+=====
+Security Updates
+https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/4/html/Security_Guide/ch-security-updates.html
+
